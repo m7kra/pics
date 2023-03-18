@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pics/static/css/main.68c3ac53.css",
+    "main.js": "/pics/static/js/main.ef9a0aad.js",
+    "static/media/rainbow.JPG": "/pics/static/media/rainbow.f9db0ec87dd6b231a09b.JPG",
+    "static/media/gaspar.jpg": "/pics/static/media/gaspar.9366e1731abe90c43edc.jpg",
+    "static/media/namur.JPG": "/pics/static/media/namur.14f29411407eb65342ae.JPG",
+    "static/media/mountains.jpg": "/pics/static/media/mountains.b83ffc281cbede5c7cc6.jpg",
+    "static/media/mail.JPG": "/pics/static/media/mail.497b61fe19a4bb15bb54.JPG",
+    "static/media/psousa.jpg": "/pics/static/media/psousa.b2c99eec3716cd670543.jpg",
+    "static/media/cave.JPG": "/pics/static/media/cave.2b714140f9d37f14881e.JPG",
+    "static/media/mikra3.JPG": "/pics/static/media/mikra3.cbf5dbf7bbb1bbd9710c.JPG",
+    "static/media/mikra4.JPG": "/pics/static/media/mikra4.e3cfa2795ba75dc3bf98.JPG",
+    "static/media/flowers.JPG": "/pics/static/media/flowers.c3d6ed654aba2aa1d39f.JPG",
+    "static/media/ascending.JPG": "/pics/static/media/ascending.5e5fbf75b4fc113c6c90.JPG",
+    "static/media/mikra2.JPG": "/pics/static/media/mikra2.953938b0b922a9e962b5.JPG",
+    "static/media/mikra5.JPG": "/pics/static/media/mikra5.2ce338585fd662015ecc.JPG",
+    "static/media/mikra.JPG": "/pics/static/media/mikra.8c6b5e0c167d7c2d258d.JPG",
+    "static/media/logo-white.png": "/pics/static/media/logo-white.76deba480187d65c4f37.png",
+    "index.html": "/pics/index.html",
+    "main.68c3ac53.css.map": "/pics/static/css/main.68c3ac53.css.map",
+    "main.ef9a0aad.js.map": "/pics/static/js/main.ef9a0aad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c3ac53.css",
+    "static/js/main.ef9a0aad.js"
+  ]
+}

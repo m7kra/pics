@@ -1,0 +1,30 @@
+.picture {
+    position: relative;
+}
+.picture.landscape {
+    aspect-ratio: 16/9;
+}
+.picture.portrait {
+    aspect-ratio: 9/16;
+}
+.picture > * {
+    border-radius: var(--border-radius);
+    background-image: var(--bg-image), linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: calc(100% - 40px);
+    transition: var(--transition);
+    cursor: pointer;
+}
+.picture.portrait > * {
+    aspect-ratio: 9/16;
+}
+.picture.landscape > * {
+    aspect-ratio: 16/9;
+}
+.picture > *:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgb(0, 0, 0, 0.2)), var(--bg-image), linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+}

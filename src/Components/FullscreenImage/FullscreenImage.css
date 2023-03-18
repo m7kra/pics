@@ -1,0 +1,17 @@
+.fullscreen-image {
+    position: fixed;
+    top: 0;
+    left: -100vw;
+    width: 100vw;
+    height: 100vh;
+    transition: var(--transition);
+    background-image: var(--bg-image), linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    z-index: 1;
+}
+.fullscreen-image.active {
+    left: 0;
+}
