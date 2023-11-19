@@ -16,6 +16,8 @@ import mountains from '../../images/mountains.jpg';
 import psousa from '../../images/psousa.jpg';
 import rainbow from '../../images/rainbow.JPG';
 import flowers from '../../images/flowers.JPG';
+import bridge from '../../images/bridge.jpg';
+import trees from '../../images/trees.jpg';
 
 export default function Body() {
 
@@ -55,16 +57,17 @@ export default function Body() {
 
 const pictures = [
     {src: psousa, orientation: 'landscape'},
-    {src: mikra2, orientation: 'landscape'},
+    {src: trees, orientation: 'landscape'},
     {src: mail, orientation: 'portrait'},
     {src: namur, orientation: 'portrait'},
     {src: ascending, orientation: 'portrait'},
     {src: gaspar, orientation: 'landscape'},
+    {src: mikra2, orientation: 'landscape'},
     {src: cave, orientation: 'landscape'},
     {src: mikra, orientation: 'landscape'},
-    {src: mountains, orientation: 'landscape'},
     {src: mikra5, orientation: 'portrait'},
     {src: flowers, orientation: 'portrait'},
+    {src: mountains, orientation: 'landscape'},
     {src: rainbow, orientation: 'landscape'},
     {src: mikra3, orientation: 'landscape'},
     {src: mikra4, orientation: 'landscape'}
