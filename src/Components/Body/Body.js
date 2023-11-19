@@ -67,6 +67,7 @@ const pictures = [
     {src: mikra, orientation: 'landscape'},
     {src: mikra5, orientation: 'portrait'},
     {src: flowers, orientation: 'portrait'},
+    {src: bridge, orientation: 'landscape'},
     {src: mountains, orientation: 'landscape'},
     {src: rainbow, orientation: 'landscape'},
     {src: mikra3, orientation: 'landscape'},
